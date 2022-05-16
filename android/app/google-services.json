@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "225645116881",
+    "project_id": "instaclone-1ecb9",
+    "storage_bucket": "instaclone-1ecb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225645116881:android:b4e83e9c0087904d7e34f0",
+        "android_client_info": {
+          "package_name": "com.peeroplayer.clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225645116881-n0aieunar490a3c2ttb5a7iu0kv5cplp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peeroplayer.clone",
+            "certificate_hash": "587a776d3c1a688f95d7361ee5ab351eb814467f"
+          }
+        },
+        {
+          "client_id": "225645116881-uhiicbqd8dptokq71grruvcifq5a6oct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIcXgi75JUPNwitTn-ANFzpcP2AgLKoEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225645116881-uhiicbqd8dptokq71grruvcifq5a6oct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "225645116881-62uf72dnb38811iffvni5i8v36080023.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.peeroplayer.clone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

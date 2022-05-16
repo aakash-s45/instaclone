@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>225645116881-62uf72dnb38811iffvni5i8v36080023.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.225645116881-62uf72dnb38811iffvni5i8v36080023</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBO9g0lScqnFvLWG5p52DktY3Q6uZ8jFXQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>225645116881</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.peeroplayer.clone</string>
+	<key>PROJECT_ID</key>
+	<string>instaclone-1ecb9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>instaclone-1ecb9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:225645116881:ios:a5578a979949e9d07e34f0</string>
+</dict>
+</plist>
